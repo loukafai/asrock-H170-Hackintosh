@@ -16,6 +16,6 @@ my PC
 
 # ScreenCap
 
-## ViedoProc
+## VideoProc
 
 ![](https://github.com/loukafai/asrock-H170-Hackintosh/blob/main/scrrencap/videoproc_decode.png)
