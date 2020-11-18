@@ -13,3 +13,9 @@ my PC
 1. RX560 (hdmi port -> LG 29WK600  2560 x 1080)
 1. intel AX200 (use Itlwm & AirportItlwm drive)
 1. 1 m2 ssd & 1 SSD & 1 HD
+
+# ScreenCap
+
+## ViedoProc
+
+![](https://github.com/loukafai/asrock-H170-Hackintosh/blob/main/scrrencap/videoproc_decode.png)
